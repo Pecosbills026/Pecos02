@@ -16,9 +16,6 @@
 {"name":"AZTECA UNO","image":"http://descargas.podzone.net/logos/-azteca-uno.png",
 "url":"http://iptvhogar.club:25461/Gladys_Farina/0342501807/2508"},
 
-{"name":"AZTECA UNO OPC2","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO-y2uc8dASOZeGEsQL7JbI3iQ4yTP_uaQRk4R5NfhENpI0kbmefl7hS0&s=10",
-"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1155859"},
-
 {"name":"AZTECA 7","image":"http://descargas.podzone.net/logos/-azteca-7.png",
 "url":"http://iptvhogar.club:25461/Gladys_Farina/0342501807/2511"},
 
@@ -36,6 +33,9 @@
 
 {"name":"CANAL NUEVE","image":"https://i.imgur.com/Pv0aFGK.jpg",
 "url":"http://iptvhogar.club:25461/Gladys_Farina/0342501807/2535"},
+
+{"name":"CANAL NUEVE OPC2","image":"http://descargas.podzone.net/logos/-nueve.png",
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1155855"},
 
 {"name":"IMAGEN TV","image":"http://descargas.podzone.net/logos/-imagen-tv.png",
 "url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1124600"},
