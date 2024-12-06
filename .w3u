@@ -1,6 +1,6 @@
 {"name": "PRIVATE TV",
-"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRLV4dAGN_qfVJvwDpiSu1M8wP8gbHYSmhSJuqWAW9aiW4M9lLBysTROM&s=10",
-"author": "P.A.C.O.",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRLV4dAGN_qfVJvwDpiSu1M8wP8gbHYSmhSJuqWAW9aiW4M9lLBysTROM&
+"author": "P.A.C.O. ©2025",
 "groups": [
 
 {"name": "TV ABIERTA",
@@ -326,6 +326,9 @@
 
 {"name":"AZ CINEMA OPC2","image":"http://descargas.podzone.net/logos/-AZ-cinema.png",
 "url":"http://canal-pro.xyz:8080/56971392669wspzero/170721zero/24783"},
+
+{"name":"AZ CINEMA OPC3","image":"http://lonewolftvpr.com/logos/Azcinema.png",
+"url":"http://streamsy.online:2999/PRPLUS/vevnife7/72"},
 
 {"name":"CINECANAL","image":"https://i.ibb.co/S0h94pk/CINECANAL.jpg",
 "url":"http://canal-pro.xyz:8080/73177492/13012022/112"},
