@@ -46,9 +46,8 @@
 {"name":"FORO TV","image":"http://descargas.podzone.net/logos/-foro-tv.png",
 "url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1155869"}]},
 
-{"name": "CULTURA & ENTRETEMIENTO",
+{"name": "CULTURA & ENTRETENIMIENTO",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGH_sPY1_OI1peWn5anm6Z9mCnY4182-Xis_65K1TPNAw4xnWKEoVsTYs&s=10",
-"author": "Mexico - p.a.c.o.",
 "stations": [
 
 {"name":"ANIMAL PLANET", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuXZIMkXsuzfDaSnKC6CgHJdbtcHeQTh1qjS1sM4QIrQ&s", 
@@ -511,7 +510,7 @@
 "url":"http://tv.nousiptv.com:8080/angelicafrancisco/02112020/1156004"},
 
 {"name":"TNT SERIES OPC2","image":"http://descargas.podzone.net/logos/-TNT-series.png",
-"url":"http://tv.nousiptv.com:8080/angelicafrancisco/02112020/4050"},
+"url":"http://home-playtv.com:8080/UNITY1/RPc6NgY6GtRT/439780"},
 
 {"name":"UNIVERSAL","image": "https://i.ibb.co/kqgm3p7/UNIVERSALCHANNEL.jpg",
 "url": "http://tv.nousiptv.com:8080/095488530/Alvaro/4054"},
