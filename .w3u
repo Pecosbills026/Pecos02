@@ -50,8 +50,11 @@
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWrA8Qhd-Cja8D8u113ZYCPXlxy0ZBERJ1Fw&usqp=CAU", 
 "stations": [
 
-{"name":"MAX EN VIVO","image":"http://live.iptvlatino.cc/stream_icons_mx/amas.png",
+{"name":"MAX","image":"https://logodownload.org/wp-content/uploads/2024/03/max-logo-0.png",
 "url":"https://jactvpro.xyz:443/Upb93ECM5B/RRzkDRt6w8/10279.m3u8"},
+
+{"name":"MAX","image":"https://1000logos.net/wp-content/uploads/2021/12/De-Pelicula-Plus-Logo.png",
+"url":"hhttps://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10291.m3u8"},
 
 {"name":"SONY CHANNEL","image":"https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png",
 "url":"https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10283.m3u8"}]},
