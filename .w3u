@@ -456,12 +456,6 @@
 {"name":"DE PELICULA PLUS OPC2","image":"http://descargas.podzone.net/logos/-de-pelicula-plus.png",
 "url":"http://alfa.7057460.xyz:2095/electrocel300823/300823electrocel/7279"},
 
-{"name":"FILMEX","image":"https://image.xumo.com/v1/channels/channel/99951120/600x600.webp?type=color_onBlack",
-"url":"http://latinchannel.tv:8080/gildarut2/ewk9iycd/38452"},
-
-{"name":"FILMEX CLASICO","image":"https://image.xumo.com/v1/channels/channel/99951120/600x600.webp?type=color_onBlack",
-"url":"http://latinchannel.tv:8080/gildarut2/ewk9iycd/38453"},
-
 {"name":"EUROPA EUROPA","image":"https://i.ibb.co/cCN9PXW/EUROPAEUROPA.jpg",
 "url":"http://alfa.7057460.xyz:2095/electrocel300823/300823electrocel/7190"},
 
@@ -470,6 +464,12 @@
 
 {"name":"DHE","image":"http://descargas.podzone.net/logos/-DHE.png",
 "url":"http://alfa.7057460.xyz:2095/electrocel300823/300823electrocel/7477"},
+
+{"name":"FILMEX","image":"https://image.xumo.com/v1/channels/channel/99951120/600x600.webp?type=color_onBlack",
+"url":"http://latinchannel.tv:8080/gildarut2/ewk9iycd/38452"},
+
+{"name":"FILMEX CLASICO","image":"https://image.xumo.com/v1/channels/channel/99951120/600x600.webp?type=color_onBlack",
+"url":"http://latinchannel.tv:8080/gildarut2/ewk9iycd/38453"},
 
 {"name":"FX","image":"https://i.ibb.co/hs5pPQB/FXHD.jpg ",
 "url":"http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1067"},
