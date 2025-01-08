@@ -630,13 +630,13 @@
 {"name":"UNIVERSAL PREMIER OPC2","image":"http://descargas.podzone.net/logos/-universal-premier.png",
 "url":"http://home-playtv.com:80/play/QZucm9pFF8L3WdjBXELsHqcbaxRaUT-l3-y7aT6MPulECnZuKaKaQmzjb0e_OSRY/m3u8"},
 
-{"name":"STARZ ENCORE ACTION","image":"http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVdjwApGPJDvBcnaOoz6b5NBMQcfZN_FrQGKiWJmA0hP.png",
+{"name":"STARZ ENCORE ACTION","image":"http://s0lc.net:8080/images/mov_starz_encore_action.png",
 "url":"http://alfatv.lat:2082/play/wTDKZjwJpkVqDLQQWNEHYx72PCSk3TmJg8q0hmolJScIpCe4mowv1eCT26EwgHMH/ts"},
 
 {"name":"STARZ CINEMA","image":"https://static.epg.best/us/StarzCinema.us.png",
 "url":"http://canal-pro.xyz:8080/56971392669wspzero/170721zero/206"},
 
-{"name":"STARZ CINEMA OPC2","image":"http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVdjwApGPJDvBcnaOoz6b5NBMQcfZN_FrQGKiWJmA0hP.png",
+{"name":"STARZ CINEMA OPC2","image":"http://s0lc.net:8080/images/mov_starz_cinema.png",
 "url":"http://alfatv.lat:2082/play/wTDKZjwJpkVqDLQQWNEHYx72PCSk3TmJg8q0hmolJSenD8-bOFJ7-Rh_QcG2J-Gz/ts"},
 
 {"name":"STARZ COMEDY","image":"https://static.epg.best/us/StarzComedy.us.png",
@@ -657,7 +657,7 @@
 {"name":"STARZ ENCORE CLASSICS OPC2","image":"http://s0lc.net:8080/images/mov_starz_encore_classic.png",
 "url":"http://alfatv.lat:2082/play/wTDKZjwJpkVqDLQQWNEHYx72PCSk3TmJg8q0hmolJSezOcRhxeMjKpkuaApDZGg1/ts"},
 
-{"name":"STARZ ENCORE SUSP","image":"http://fanc.tmsimg.com/assets/s83076_ll_h3_aa.png",
+{"name":"STARZ ENCORE SUSP","image":"http://s0lc.net:8080/images/mov_starz_encore_suspense.png",
 "url":"http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9730"},
 
 {"name":"STARZ ENCORE SUSP OPC2","image":"http://s0lc.net:8080/images/mov_starz_encore_suspense.png",
