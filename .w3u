@@ -558,8 +558,11 @@
 {"name":"HBO XTREME OPC2","image":"http://descargas.podzone.net/logos/-HBO-xtream.png",
 "url":"http://tv.nousiptv.com:8080/Luciana2347/9473/44341"},
 
-{"name":"PANICO","image":"http://live.iptvlatino.cc/stream_icons_mx/panico.png",
+{"name":"MEGA CINE","image":"http://live.iptvlatino.cc/stream_icons_mx/panico.png",
 "url":"http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2099"},
+
+{"name":"PANICO","image":"https://i.imgur.com/9jprbpv.png",
+"url":"http://home-playtv.com:80/play/QZucm9pFF8L3WdjBXELsHi-5gfufRa1cq3jILb8alSRv9iwiXRFGgVK6asRKLYc8/m3u8"},
 
 {"name":"PARAMOUNT","image":"http://live.iptvlatino.cc/stream_icons_mx/paramount.png",
 "url":"http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1100"},
@@ -651,13 +654,13 @@
 {"name":"STARZ ENCORE CLASSICS","image":"https://static.epg.best/us/StarzEncoreClassics.us.png",
 "url":"http://canal-pro.xyz:8080/56971392669wspzero/170721zero/669"},
 
-{"name":"STARZ ENCORE CLASSICS OPC2","image":"http://alfatv.lat:2082/images/_SMYC0S-7zkRMvHtlxTeEVdjwApGPJDvBcnaOoz6b5NBMQcfZN_FrQGKiWJmA0hP.png",
+{"name":"STARZ ENCORE CLASSICS OPC2","image":"https://static.epg.best/us/StarzEncoreClassics.us.png",
 "url":"http://alfatv.lat:2082/play/wTDKZjwJpkVqDLQQWNEHYx72PCSk3TmJg8q0hmolJSezOcRhxeMjKpkuaApDZGg1/ts"},
 
 {"name":"STARZ ENCORE SUSP","image":"http://fanc.tmsimg.com/assets/s83076_ll_h3_aa.png",
 "url":"http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9730"},
 
-{"name":"STARZ ENCORE SUSP OPC2","image":"https://lh3.googleusercontent.com/-2-P-SFuIkVg/Yf9U87XfmbI/AAAAAAAADGU/dR2s6hvETdM_UMHM9Uf1WMwzni5_nNLzwCNcBGAsYHQ/w200-h200/1644123377530154-0.png",
+{"name":"STARZ ENCORE SUSP OPC2","image":"https://sc.dish.com/shared/images/station-logos/SHO-E.PNG",
 "url":"http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9729"},
 
 {"name":"STARZ EDGE","image":"https://static.epg.best/us/StarzEdge.us.png",
@@ -678,8 +681,8 @@
 {"name":"STARZ ENCORE FAMILY OPC2","image":"https://1.bp.blogspot.com/-eEgFDxMCYm8/Xbf6BQ5kAxI/AAAAAAAAAvQ/dtgBpkQi2Yg_N2MrsCndofbWOjPmk4ywQCLcBGAsYHQ/s200/61.png",
 "url":"http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/9731"},
 
-{"name":"STARZ ENCORE KIDS","image":"https://1.bp.blogspot.com/-eEgFDxMCYm8/Xbf6BQ5kAxI/AAAAAAAAAvQ/dtgBpkQi2Yg_N2MrsCndofbWOjPmk4ywQCLcBGAsYHQ/s200/61.png",
-"url":"http://alfatv.lat:2082/play/wTDKZjwJpkVqDLQQWNEHYx72PCSk3TmJg8q0hmolJScNXKH4tdxbc1sWicKO3DsZ/ts"},
+{"name":"STARZ ENCORE","image":"https://1.bp.blogspot.com/-eEgFDxMCYm8/Xbf6BQ5kAxI/AAAAAAAAAvQ/dtgBpkQi2Yg_N2MrsCndofbWOjPmk4ywQCLcBGAsYHQ/s200/61.png",
+"url":"http://home-playtv.com:80/play/QZucm9pFF8L3WdjBXELsHqcbaxRaUT-l3-y7aT6MPumlB1zyHsWU4unL9wgI_hPL/m3u8"},
 
 {"name":"WARNER","image":"http://miarea.vip:8080/images/1b8b498a6e9ebfdd68f4b4fd4fe8dcb9.png",
 "url":"http://tvlatino.club:2082/felipeaguero2024/hAvCCUvhvuFM/184694"},
