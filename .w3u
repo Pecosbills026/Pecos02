@@ -75,10 +75,10 @@
 "url":"http://playtvpremium.xyz:2095/56975491801playtv/061123playtv/315102"},
 
 {"name":"CLARO CINEMA","image":"https://i.postimg.cc/GmBdWK7b/claro-cinema.png",
-"url":"https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10292.m3u8"},
+"url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9638.m3u8"},
 
 {"name":"DE PELICULA","image":"https://www.lyngsat.com/logo/tv/dd/de-pelicula-mx.png",
-"url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9638.m3u8"},
+"url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9642.m3u8"},
 
 {"name":"DE PELICULA CLASICO","image":"https://static.wixstatic.com/media/281e2a_52ed141254f542599d3f8eabdd34d672~mv2.png",
 "url":"http://playtvpremium.xyz:2095/56975491801playtv/061123playtv/315129"},
@@ -91,6 +91,15 @@
 
 {"name":"GOLDEN EDGE","image":"https://1.bp.blogspot.com/-a_dgujjjSt4/XatPMFS5hlI/AAAAAAAAAdQ/P_h_eb7MZV4sgYDwZ_0tNV2XDn3iFsn4QCLcBGAsYHQ/s200/48.png",
 "url":"https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10278.m3u8"},
+
+{"name":"GOLDEN PLUS","image":"https://1.bp.blogspot.com/-xAsbQLg2Jh4/XatB0liBxTI/AAAAAAAAAaw/0DJSM8f-dGYbfmZhsUXXGokODQRxIrpXwCLcBGAsYHQ/s200/35.png",
+"url":"http://playtvpremium.xyz:2095/56975491801playtv/061123playtv/315125"},
+
+{"name":"GOLDEN PREMIER","image":"https://cdn.mitvstatic.com/channels/co_golden-premier-(Z)(720)_m.png",
+"url":"http://playtvpremium.xyz:2095/56975491801playtv/061123playtv/315126"},
+
+{"name":"GOLDEN PREMIER 2","image":"https://1.bp.blogspot.com/-j59YyvcAhO4/XatB1WwVKKI/AAAAAAAAAa0/DMlvXZYGuHgvfLb_ggo3sXcUkoeGcGVaQCLcBGAsYHQ/s200/36.png",
+"url":"http://tv.proyectox.vip:8080/live/palacioscesar1/aENA5jShiT/9665.m3u8"},
 
 {"name":"HBO","image":"https://i.ibb.co/3Y1tZwW/HBO33.png",
 "url":"https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10279.m3u8"},
