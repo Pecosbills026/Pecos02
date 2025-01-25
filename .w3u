@@ -50,24 +50,6 @@
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAgjNdH5aMbNw_eH8s8EqLDrzgI7MD3Alp9g&usqp=CAU", 
 "stations": [
 
-{"name":"ADN40","image":"https://i.postimg.cc/mrDCfvxt/adn40.png",
-"url":"https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?uid=1z72FLX69MASINfEckvx3IfGnQaL4iDT&sid=UT0gm8jjxi9NrV6by87qipVyWNCuQlml&pid=jytODsBC9kMIg8MRcwgC64OdYUQbzR3c&an=screen&at=web-app&av=v5.2.327&ref=https%3A%2F%2Flive.adn40.mx%2F&res=1522x658&without_cookies=false&listenerid=&dnt=true"},
-
-{"name":"AZTECA UNO","image":"https://app.newtvmx.com/Imagenes/LOGOTIPOS/Mexico/AZUNO.png",
-"url":"http://canal-pro.xyz:8080/k5z4v7zz7e/ot4vucrkv4/24944"},
-
-{"name":"AZTECA 7","image":"https://app.newtvmx.com/Imagenes/LOGOTIPOS/Mexico/AZ7.png",
-"url":"http://canal-pro.xyz:8080/k5z4v7zz7e/ot4vucrkv4/24894"},
-
-{"name":"LAS ESTRELLAS","image":"https://app.newtvmx.com/Imagenes/LOGOTIPOS/Mexico/ESTRELLAS-2hrs.png",
-"url":"http://new-tv.cloud:25461/delgado2022/Dajael1991/689365"},
-
-{"name":"CANAL 5","image":"https://app.newtvmx.com/Imagenes/LOGOTIPOS/Mexico/caaanal5.png",
-"url":"https://jactvpro.xyz:443/Upb93ECM5B/RRzkDRt6w8/10321.ts"},
-
-{"name":"MAX","image":"https://logodownload.org/wp-content/uploads/2024/03/max-logo-0.png",
-"url":"https://jactvpro.xyz:443/Upb93ECM5B/RRzkDRt6w8/10279.ts"},
-
 {"name":"CINECANAL","image":"https://app.newtvmx.com/Imagenes/LOGOTIPOS/CINEMA/cinecanal.png",
 "url":"http://playtvpremium.xyz:2095/56975491801playtv/061123playtv/315104"},
 
@@ -128,6 +110,9 @@
 {"name":"HBO XTREME","image":"https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png",
 "url":"http://playtvpremium.xyz:2095/56975491801playtv/061123playtv/315099"},
 
+{"name":"MAX","image":"https://logodownload.org/wp-content/uploads/2024/03/max-logo-0.png",
+"url":"https://jactvpro.xyz:443/Upb93ECM5B/RRzkDRt6w8/10279.ts"},
+
 {"name":"PARAMOUNT","image":"https://1.bp.blogspot.com/-hN1LIpeBxmo/XatGnSfXE2I/AAAAAAAAAbY/oEcqLYx31rQATVggy6N5l3sK2D6BMQ1MgCLcBGAsYHQ/s200/40.png",
 "url":"https://jactvpro.xyz:443/Upb93ECM5B/RRzkDRt6w8/10276.m3u8"},
 
@@ -143,11 +128,83 @@
 {"name":"UNIVERSAL CINEMA","image":"https://www.universalplus.com/assets/logo_cinema_hero.png",
 "url":"https://jactvpro.xyz:443/Upb93ECM5B/RRzkDRt6w8/10287.ts"},
 
-{"name":"UNIVERSAL  COMEDY","image":"https://www.universalplus.com/assets/logo_comedy_hero.png",
+{"name":"UNIVERSAL COMEDY","image":"https://www.universalplus.com/assets/logo_comedy_hero.png",
 "url":"https://jactvpro.xyz:443/Upb93ECM5B/RRzkDRt6w8/10288.ts"},
 
-{"name":"UNIVERSAL  PREMIER","image":"https://www.universalplus.com/assets/logo_premiere_hero.png",
+{"name":"UNIVERSAL PREMIER","image":"https://www.universalplus.com/assets/logo_premiere_hero.png",
 "url":"https://jactvpro.xyz:443/Upb93ECM5B/RRzkDRt6w8/10286.ts"},
+
+{"name":"STARZ","image":"https://1.bp.blogspot.com/-eEgFDxMCYm8/Xbf6BQ5kAxI/AAAAAAAAAvQ/dtgBpkQi2Yg_N2MrsCndofbWOjPmk4ywQCLcBGAsYHQ/s200/61.png",
+"url":"http://jjt.ultraproplay.xyz:8080/dpuentes50876450/F4087648970v/216"},
+
+{"name":"STARZ FHD1080","image":"https://1.bp.blogspot.com/-eEgFDxMCYm8/Xbf6BQ5kAxI/AAAAAAAAAvQ/dtgBpkQi2Yg_N2MrsCndofbWOjPmk4ywQCLcBGAsYHQ/s200/61.png",
+"url":"http://premiumultra.xyz:8080/Patriciop/912909/674"},
+
+{"name":"STARZ CINEMA","image":"https://static.epg.best/us/StarzCinema.us.png",
+"url":"http://jjt.ultraproplay.xyz:8080/dpuentes50876450/F4087648970v/206"},
+
+{"name":"STARZ CINEMA FHD1080","image":"https://static.epg.best/us/StarzCinema.us.png",
+"url":"http://premiumultra.xyz:8080/Patriciop/912909/664"},
+
+{"name":"STARZ COMEDY","image":"https://static.epg.best/us/StarzComedy.us.png",
+"url":"http://jjt.ultraproplay.xyz:8080/dpuentes50876450/F4087648970v/207"},
+
+{"name":"STARZ COMEDY FHD1080","image":"https://static.epg.best/us/StarzComedy.us.png",
+"url":"http://premiumultra.xyz:8080/Patriciop/912909/665"},
+
+{"name":"STARZ EAST","image":"https://static.epg.best/us/Starz.us.png",
+"url":"http://jjt.ultraproplay.xyz:8080/dpuentes50876450/F4087648970v/208"},
+
+{"name":"STARZ EAST FHD1080","image":"https://static.epg.best/us/Starz.us.png",
+"url":"http://premiumultra.xyz:8080/Patriciop/912909/666"},
+
+{"name":"STARZ EDGE","image":"https://static.epg.best/us/StarzEdge.us.png",
+"url":"http://jjt.ultraproplay.xyz:8080/dpuentes50876450/F4087648970v/209"},
+
+{"name":"STARZ EDGE FHD1080","image":"https://static.epg.best/us/StarzEdge.us.png",
+"url":"http://premiumultra.xyz:8080/Patriciop/912909/667"},
+
+{"name":"STARZ ENCORE BLACK","image":"https://static.epg.best/us/StarzEdge.us.png",
+"url":"http://jjt.ultraproplay.xyz:8080/dpuentes50876450/F4087648970v/210"},
+
+{"name":"STARZ ENCORE BLACK FHD1080","image":"https://static.epg.best/us/StarzEdge.us.png",
+"url":"http://premiumultra.xyz:8080/Patriciop/912909/668"},
+
+{"name":"STARZ ENCORE CLASSIC","image":"https://static.epg.best/us/StarzEncoreClassics.us.png",
+"url":"http://jjt.ultraproplay.xyz:8080/dpuentes50876450/F4087648970v/211"},
+
+{"name":"STARZ ENCORE CLASSIC FHD1080","image":"https://static.epg.best/us/StarzEncoreClassics.us.png",
+"url":"http://premiumultra.xyz:8080/Patriciop/912909/669"},
+
+{"name":"STARZ ENCORE FAMILY","image":"https://static.epg.best/us/StarzEncoreFamily.us.png",
+"url":"http://jjt.ultraproplay.xyz:8080/dpuentes50876450/F4087648970v/212"},
+
+{"name":"STARZ ENCORE FAMILY FHD1080","image":"https://static.epg.best/us/StarzEncoreFamily.us.png",
+"url":"http://premiumultra.xyz:8080/Patriciop/912909/670"},
+
+{"name":"STARZ ENCORE","image":"https://static.epg.best/us/StarzEncoreFamily.us.png",
+"url":"http://jjt.ultraproplay.xyz:8080/dpuentes50876450/F4087648970v/213"},
+
+{"name":"STARZ ENCORE FHD1080","image":"https://static.epg.best/us/StarzEncoreFamily.us.png",
+"url":"http://premiumultra.xyz:8080/Patriciop/912909/671"},
+
+{"name":"STARZ ENCORE SUSPENSE","image":"https://static.epg.best/us/StarzEncoreSuspense.us.png",
+"url":"http://jjt.ultraproplay.xyz:8080/dpuentes50876450/F4087648970v/214"},
+
+{"name":"STARZ ENCORE SUSPENSE FHD1080","image":"https://static.epg.best/us/StarzEncoreSuspense.us.png",
+"url":"http://premiumultra.xyz:8080/Patriciop/912909/672"},
+
+{"name":"STARZ ENCORE WESTERN","image":"https://static.epg.best/us/StarzEncoreWesterns.us.png",
+"url":"http://jjt.ultraproplay.xyz:8080/dpuentes50876450/F4087648970v/215"},
+
+{"name":"STARZ ENCORE WESTERN FHD1080","image":"https://static.epg.best/us/StarzEncoreWesterns.us.png",
+"url":"http://premiumultra.xyz:8080/Patriciop/912909/673"},
+
+{"name":"STARZ WEST","image":"https://static.epg.best/us/Starz.us.png",
+"url":"http://jjt.ultraproplay.xyz:8080/dpuentes50876450/F4087648970v/217"},
+
+{"name":"STARZ WEST FHD1080","image":"https://static.epg.best/us/Starz.us.png",
+"url":"http://premiumultra.xyz:8080/Patriciop/912909/675"},
 
 {"name":"WARNER CHANNEL","image":"https://i.ibb.co/vJrZD2P/WARNERTV.jpg",
 "url":"http://playtvpremium.xyz:2095/56975491801playtv/061123playtv/315113"}]},
